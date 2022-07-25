@@ -1,0 +1,251 @@
+@charset "UTF-8";
+
+.mediaViewInfo {
+	--web-view-name: yama_portfolio2022/Home;
+	--web-view-id: yama_portfolio2022Home;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: yama_portfolio2022Home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#yama_portfolio2022Home {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: yama_portfolio2022/Home;
+	--web-view-id: yama_portfolio2022Home;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#n_2 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#n_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_3 {
+	position: absolute;
+	overflow: visible;
+	width: 2205px;
+	height: 1429px;
+	left: -213px;
+	top: -232px;
+}
+#n_4 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1920px;
+	height: 942px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#n_6 {
+	fill: rgba(255,255,255,1);
+}
+.n_6 {
+	position: absolute;
+	overflow: visible;
+	width: 2065px;
+	height: 1266px;
+	left: -75px;
+	top: -130px;
+}
+#from_Y_to_Y220711 {
+	position: absolute;
+	width: 1465px;
+	height: 824px;
+	left: -200px;
+	top: 211px;
+	overflow: visible;
+}
+#n_20711 {
+	position: absolute;
+	width: 1355px;
+	height: 762px;
+	left: 1091px;
+	top: 196px;
+	overflow: visible;
+}
+#n_1 {
+	position: absolute;
+	width: 692px;
+	height: 914px;
+	left: 614px;
+	top: 166px;
+	overflow: visible;
+}
+#n_14 {
+	opacity: 0.411;
+	filter: blur(8.305px);
+	fill: transparent;
+}
+.n_14 {
+	position: absolute;
+	overflow: visible;
+	width: 2016px;
+	height: 925px;
+	left: -57px;
+	top: 114px;
+}
+#n_1_r {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1920px;
+	height: 219px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#n_2_s {
+	fill: rgba(26,40,59,1);
+}
+.n_2_s {
+	position: absolute;
+	overflow: visible;
+	width: 2105px;
+	height: 276px;
+	left: -59px;
+	top: -57px;
+}
+#portfolio {
+	left: 119px;
+	top: 71px;
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: ParalucentStencil;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 89px;
+	color: rgba(73,181,229,1);
+	text-transform: capitalize;
+}
+#profile {
+	left: 1421px;
+	top: 90px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: profile.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(209,213,217,1);
+	text-transform: capitalize;
+}
+#favorite {
+	left: 1570px;
+	top: 91px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: favorite.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(209,213,217,1);
+	text-transform: capitalize;
+}
+#work {
+	left: 1736px;
+	top: 91px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: work.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(209,213,217,1);
+	text-transform: capitalize;
+}
+#n_3_x {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1920px;
+	height: 202px;
+	left: 0px;
+	top: 942px;
+	overflow: hidden;
+}
+#n_4_y {
+	fill: rgba(26,40,59,1);
+}
+.n_4_y {
+	position: absolute;
+	overflow: visible;
+	width: 2105px;
+	height: 313px;
+	left: -59px;
+	top: -138px;
+}
+#n_murayama_portfolio_2022 {
+	left: 857px;
+	top: 1008px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Hiragino Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(209,213,217,1);
+}

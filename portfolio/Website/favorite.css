@@ -1,0 +1,479 @@
+.mediaViewInfo {
+	--web-view-name: yama_portfolio2022/Favorite;
+	--web-view-id: yama_portfolio2022Favorite;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: yama_portfolio2022Favorite;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#yama_portfolio2022Favorite {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: yama_portfolio2022/Favorite;
+	--web-view-id: yama_portfolio2022Favorite;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#n_2 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#n_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_3 {
+	position: absolute;
+	overflow: visible;
+	width: 2205px;
+	height: 1429px;
+	left: -213px;
+	top: -232px;
+}
+#n_4 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#n_6 {
+	fill: rgba(209,213,217,1);
+}
+.n_6 {
+	position: absolute;
+	overflow: visible;
+	width: 2065px;
+	height: 3464px;
+	left: -75px;
+	top: -130px;
+}
+#n_1 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1920px;
+	height: 219px;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+}
+#n_2_o {
+	fill: rgba(26,40,59,1);
+}
+.n_2_o {
+	position: absolute;
+	overflow: visible;
+	width: 2105px;
+	height: 276px;
+	left: -59px;
+	top: -57px;
+}
+#portfolio {
+	left: 119px;
+	top: 71px;
+	position: absolute;
+	overflow: visible;
+	width: 331px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: ParalucentStencil;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 89px;
+	color: rgba(73,181,229,1);
+	text-transform: capitalize;
+}
+#n_3_q {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1920px;
+	height: 138px;
+	left: 0px;
+	top: 942px;
+	overflow: hidden;
+}
+#n_4_r {
+	fill: rgba(26,40,59,1);
+}
+.n_4_r {
+	position: absolute;
+	overflow: visible;
+	width: 2105px;
+	height: 276px;
+	left: -59px;
+	top: -138px;
+}
+#n_5 {
+	fill: rgba(255,255,255,1);
+}
+.n_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1770px;
+	height: 552px;
+	left: 75px;
+	top: 294px;
+}
+#n_1_t {
+	position: absolute;
+	width: 1575px;
+	height: 415px;
+	left: 173px;
+	top: 333px;
+	overflow: hidden;
+}
+#Group {
+	position: absolute;
+	width: 452px;
+	height: 398px;
+	left: 0px;
+	top: 1px;
+	overflow: visible;
+}
+#n_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 322px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Hiragino Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#n_7 {
+	fill: rgba(132,132,132,1);
+}
+.n_7 {
+	position: absolute;
+	overflow: visible;
+	width: 447px;
+	height: 229px;
+	left: 0px;
+	top: 60px;
+}
+#n__x {
+	left: 0px;
+	top: 326px;
+	position: absolute;
+	overflow: hidden;
+	width: 453px;
+	height: 72px;
+	text-align: left;
+	font-family: Hiragino Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Group_y {
+	position: absolute;
+	width: 452px;
+	height: 398px;
+	left: 564px;
+	top: 1px;
+	overflow: visible;
+}
+#VOCALOID_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Hiragino Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#n_7_ {
+	fill: rgba(132,132,132,1);
+}
+.n_7_ {
+	position: absolute;
+	overflow: visible;
+	width: 447px;
+	height: 229px;
+	left: 0px;
+	top: 60px;
+}
+#Text {
+	left: 0px;
+	top: 326px;
+	position: absolute;
+	overflow: visible;
+	width: 453px;
+	height: 72px;
+	text-align: left;
+	font-family: Hiragino Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Group_ {
+	position: absolute;
+	width: 452px;
+	height: 398px;
+	left: 1128px;
+	top: 1px;
+	overflow: visible;
+}
+#TOMORROW_X_TOGETHER_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 334px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Hiragino Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#n_7_ba {
+	fill: rgba(132,132,132,1);
+}
+.n_7_ba {
+	position: absolute;
+	overflow: visible;
+	width: 447px;
+	height: 229px;
+	left: 0px;
+	top: 60px;
+}
+#n__ {
+	left: 0px;
+	top: 326px;
+	position: absolute;
+	overflow: hidden;
+	width: 453px;
+	height: 72px;
+	text-align: left;
+	font-family: Hiragino Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#n_murayama_portfolio_2022 {
+	left: 857px;
+	top: 1003px;
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Hiragino Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(209,213,217,1);
+}
+#n_2_ {
+	position: absolute;
+	width: 1353px;
+	height: 49px;
+	left: 292px;
+	top: 748px;
+	overflow: hidden;
+}
+#Group_ba {
+	position: absolute;
+	width: 212px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_11 {
+	fill: rgba(73,181,229,1);
+}
+.n_11 {
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+#Official_Site {
+	left: 49px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Hiragino Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Group_bb {
+	position: absolute;
+	width: 212px;
+	height: 49px;
+	left: 571px;
+	top: 0px;
+	overflow: visible;
+}
+#n_11_bc {
+	fill: rgba(73,181,229,1);
+}
+.n_11_bc {
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+#Official_Site_bd {
+	left: 49px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Hiragino Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Group_be {
+	position: absolute;
+	width: 212px;
+	height: 49px;
+	left: 1142px;
+	top: 0px;
+	overflow: visible;
+}
+#n_11_bf {
+	fill: rgba(73,181,229,1);
+}
+.n_11_bf {
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+#Official_Site_bg {
+	left: 49px;
+	top: 15px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Hiragino Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#profile {
+	left: 1421px;
+	top: 90px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: profile.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(209,213,217,1);
+	text-transform: capitalize;
+}
+#favorite {
+	left: 1570px;
+	top: 91px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(227,127,83,1);
+	text-transform: capitalize;
+}
+#work {
+	left: 1736px;
+	top: 91px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: work.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(209,213,217,1);
+	text-transform: capitalize;
+}
